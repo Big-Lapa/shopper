@@ -9,5 +9,4 @@ class ShopperApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
